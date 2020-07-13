@@ -7,11 +7,11 @@ I am Huan Zhang, born in April 1994, currently a Ph.D. candidate in School of Co
 
 ### News 最新动态
 
-:v: 2020.07- Thanks to all my friends, I got the award as "One of the Excellent Party Members of China University of Geosciences (Wuhan) in 2019".  
-**谢谢大家，我很荣幸被评为“中国地质大学（武汉）校级优秀共产党员”！**
+:v: 2020.07- Thanks to all my friends, I got the award as "The Excellent Party Members of China University of Geosciences (Wuhan) in 2019-2020".  
+**谢谢大家，我很荣幸被评为“2019-2020学年中国地质大学（武汉）校级优秀共产党员”！**
 
-:v: 2020.01- Thanks to all my friends, I got the award as "One of the Man of the Year of Computer Science in China University of Geosciences (Wuhan) in 2019".  
-**感谢朋友们的支持，我很荣幸被评为“中国地质大学（武汉）计算机学院2019年度人物”！**
+:v: 2020.01- Thanks to all my friends, I got the award as "Man of the Year of School of Computer Science in China University of Geosciences (Wuhan) in 2019".  
+**感谢朋友们的支持，我很荣幸被评为“2019年中国地质大学（武汉）计算机学院年度人物”！**
 
 :v: 2019.11- Our works "Fine-grained Attribute Weighting Bayesian network for Classification" is awarded with "Outstanding Winner of the 30th Postgraduate Scientific Paper Presentations in China University of Geosciences (Wuhan)". Keep on fighting!   
 **我们的工作“细粒度属性加权的贝叶斯网络分类算法研究”获得了中国地质大学（武汉）第三十届研究生科技论文报告会特等奖！继续加油！**
