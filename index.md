@@ -42,7 +42,7 @@ I am Huan Zhang, born in April 1994, currently a first-year Ph.D. student at Chi
 Authors: **Huan Zhang**, Liangxiao Jiang*, Liangjun Yu  
 Publication: Information Sciences, Vol 508, January 2020, Pages 260-274. (SCI, JCR-1, CCF-B, IF=5.542)
 
-### Publications 科研项目
+### Projects 科研项目
 中国地质大学（武汉）教学实验室开放基金项目，SKJ2018226，基于深度学习的短文本情感分析研究，2018/12-2019/12，已结题，主持
 
 ### Honors 获奖情况
