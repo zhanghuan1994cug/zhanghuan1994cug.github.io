@@ -29,16 +29,35 @@ I am Huan Zhang, born in April 1994, currently a first-year Ph.D. student at Chi
 **我们的工作“Class-specific Attribute Value Weighting for Naive Bayes” 被录取到了 Information Sciences (CCF-B, IF:5.524)！一定要记得这个日子，这必然是一个好的开始！**
 
 :v: 2019.06- Congratulations! I got the third prize in "The 14th Central China Post-graduate Programming Contest in Wuhan University"! It's very exciting to compete with so many advanced programmer!   
-**祝贺！我很荣幸获得了“武汉大学第14届学术科技节之锐捷网络杯华中区高校研究生程序设计大赛三等奖” ！与编程高手同场竞技是件很令人激动的事情！**
+**祝贺！我很荣幸获得了“武汉大学第十四届学术科技节之锐捷网络杯华中区高校研究生程序设计大赛三等奖” ！与编程高手同场竞技是件很令人激动的事情！**
 
 :v: 2019.05- Congratulations! I got the third prize in the finals of "The 10th LAN QIAO Programming Contest (Group of Post-graduate in Java Language)"! Enjoy the contest itself!   
-**祝贺！我很荣幸获得了“第10届蓝桥杯程序设计大赛（Java研究生组）总决赛三等奖” ！享受比赛的过程！**
+**祝贺！我很荣幸获得了“第十届蓝桥杯程序设计大赛（Java研究生组）总决赛三等奖” ！享受比赛的过程！**
 
 :v: 2019.03- Congratulations! I got the first prize in the preliminary of "The 10th LAN QIAO Programming Contest (Group of Post-graduate in Java Language)"! Expect for the finals in Beijing!   
-**祝贺！我很荣幸获得了“第10届蓝桥杯程序设计大赛（Java研究生组）初赛一等奖” ！期待北京的决赛！**
+**祝贺！我很荣幸获得了“第十届蓝桥杯程序设计大赛（Java研究生组）初赛一等奖” ！期待北京的决赛！**
 
 ### Publications 科研论文
-**Class-specific Attribute Value Weighting for Naive Bayes**
-Authors: **Huan Zhang**, Liangxiao Jiang*, Liangjun Yu
+**[Class-specific Attribute Value Weighting for Naive Bayes](https://www.sciencedirect.com/science/article/pii/S0020025519308217?via%3Dihub)**  
+Authors: **Huan Zhang**, Liangxiao Jiang*, Liangjun Yu  
 Publication: Information Sciences, Vol 508, January 2020, Pages 260-274. (SCI, JCR-1, CCF-B, IF=5.542)
 
+### Publications 科研项目
+中国地质大学（武汉）教学实验室开放基金项目，SKJ2018226，基于深度学习的短文本情感分析研究，2018/12-2019/12，已结题，主持
+
+### Honors 获奖情况
+2019-2020学年中国地质大学（武汉）校级优秀共产党员
+
+2019年中国地质大学（武汉）计算机学院年度人物
+
+2019年“华为杯”第十六届中国研究生数学建模竞赛一等奖
+
+2019年中国地质大学（武汉）第三十届研究生科技论文报告会特等奖
+
+2019年硕士研究生国家奖学金
+
+2019年武汉大学第十四届学术科技节之锐捷网络杯华中区高校研究生程序设计大赛三等奖
+
+2019年第十届蓝桥杯程序设计大赛（Java研究生组）总决赛三等奖
+
+2019年第十届蓝桥杯程序设计大赛（Java研究生组）初赛一等奖
