@@ -38,14 +38,17 @@ I am Huan Zhang, born in April 1994, currently a first-year Ph.D. student at Chi
 **祝贺！我很荣幸获得了“第十届蓝桥杯程序设计大赛（Java研究生组）初赛一等奖” ！期待北京的决赛！**
 
 ### Publications 科研论文
+
 **[Class-specific Attribute Value Weighting for Naive Bayes](https://www.sciencedirect.com/science/article/pii/S0020025519308217?via%3Dihub)**  
 Authors: **Huan Zhang**, Liangxiao Jiang*, Liangjun Yu  
 Publication: Information Sciences, Vol 508, January 2020, Pages 260-274. (SCI, JCR-1, CCF-B, IF=5.542)
 
 ### Projects 科研项目
+
 中国地质大学（武汉）教学实验室开放基金项目，SKJ2018226，基于深度学习的短文本情感分析研究，2018/12-2019/12，已结题，主持
 
 ### Honors 获奖情况
+
 2019-2020学年中国地质大学（武汉）校级优秀共产党员
 
 2019年中国地质大学（武汉）计算机学院年度人物
