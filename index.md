@@ -1,8 +1,8 @@
 # Welcome to Huan Zhang's Website! 欢迎来到我的个人网站!
 
-I am Huan Zhang, born in April 1994, currently a first-year Ph.D. student at China University of Geosciences (CUG), under the supervision of Prof. [Liangxiao Jiang(http://grzy.cug.edu.cn/jlx/zh_CN/index.htm)]. Previously, I received my B.S. degree of Computer Science from Central China Normal University (CCNU) in 2016. My research interests mainly include machine learning and data mining, especially Bayesian learning and cost-sensitive learning.
+I am Huan Zhang, born in April 1994, currently a first-year Ph.D. student at China University of Geosciences (CUG), under the supervision of Prof. [Liangxiao Jiang](http://grzy.cug.edu.cn/jlx/zh_CN/index.htm). Previously, I received my B.S. degree in Computer Science and Technology from Central China Normal University (CCNU) in 2016. I joined the China Unionpay Merchant Service, Wuhan in 2016.7, working as a software engineer until 2018.8. At present, my research interests mainly include machine learning and data mining, especially Bayesian learning and cost-sensitive learning.
 
-我是张欢，1994年4月生，目前是中国地质大学（武汉）的一年级在读博士生。我的研究兴趣主要包括机器学习和数据挖掘，尤其是贝叶斯学习。
+我是张欢，1994年4月生，目前是中国地质大学（武汉）的一年级在读博士生，导师是[蒋良孝](http://grzy.cug.edu.cn/jlx/zh_CN/index.htm)教授。2016年获得华中师范大学计算机科学与技术学士学位。2016年7月至2018年8月任银联商务有限公司（武汉）软件开发工程师。目前，我的研究兴趣主要包括机器学习和数据挖掘，尤其是贝叶斯学习和代价敏感学习。
 
 
 ### News 最新动态
