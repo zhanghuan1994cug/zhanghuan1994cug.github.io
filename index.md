@@ -36,3 +36,9 @@ I am Huan Zhang, born in April 1994, currently a first-year Ph.D. student at Chi
 
 :v: 2019.03- Congratulations! I got the first prize in the preliminary of "The 10th LAN QIAO Programming Contest (Group of Post-graduate in Java Language)"! Expect for the finals in Beijing!   
 **祝贺！我很荣幸获得了“第10届蓝桥杯程序设计大赛（Java研究生组）初赛一等奖” ！期待北京的决赛！**
+
+### Publications 科研论文
+**Class-specific Attribute Value Weighting for Naive Bayes**
+Authors: **Huan Zhang**, Liangxiao Jiang*, Liangjun Yu
+Publication: Information Sciences, Vol 508, January 2020, Pages 260-274. (SCI, JCR-1, CCF-B, IF=5.542)
+
