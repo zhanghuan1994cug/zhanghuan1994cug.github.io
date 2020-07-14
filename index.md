@@ -28,10 +28,11 @@ I am Huan Zhang, born in April 1994, currently a Ph.D. candidate in School of Co
 :v: 2019.08- Our paper ''Class-specific Attribute Value Weighting for Naive Bayes'' is accepted in Information Sciences (CCF-B, IF:5.524)! Remember this day, it must be a good start!  
 **我们的工作“Class-specific Attribute Value Weighting for Naive Bayes” 被录取到了 Information Sciences (CCF-B, IF:5.524)！一定要记得这个日子，这必然是一个好的开始！**
 
-:v: 2019.06- Congratulations! I got the third prize in "The 14th Central China Post-graduate Programming Contest in Wuhan University". It's very exciting to compete with so many advanced programmer!   
+:v: 2019.06- Congratulations! I got the third prize in "The 14th Central China Post-graduate Programming Contest in Wuhan University"! It's very exciting to compete with so many advanced programmer!   
 **祝贺！我很荣幸获得了“武汉大学第14届学术科技节之锐捷网络杯华中区高校研究生程序设计大赛三等奖” ！与编程高手同场竞技是件很令人激动的事情！**
 
-:v: 2019.05- Congratulations! I got the third prize in the finals of "The 10th LAN QIAO Programming Contest (Group of Post-graduate in Java Language)". Enjoy the contest itself!   **祝贺！我很荣幸获得了“第10届蓝桥杯程序设计大赛（Java研究生组）总决赛三等奖” ！享受比赛的过程！**
+:v: 2019.05- Congratulations! I got the third prize in the finals of "The 10th LAN QIAO Programming Contest (Group of Post-graduate in Java Language)"! Enjoy the contest itself!   
+**祝贺！我很荣幸获得了“第10届蓝桥杯程序设计大赛（Java研究生组）总决赛三等奖” ！享受比赛的过程！**
 
 :v: 2019.03- Congratulations! I got the first prize in the preliminary of "The 10th LAN QIAO Programming Contest (Group of Post-graduate in Java Language)"! Expect for the finals in Beijing!   
 **祝贺！我很荣幸获得了“第10届蓝桥杯程序设计大赛（Java研究生组）初赛一等奖” ！期待北京的决赛！**
