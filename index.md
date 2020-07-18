@@ -7,6 +7,9 @@ I am Huan Zhang, born in April 1994, currently a first-year Ph.D. student at Chi
 
 ### News 最新动态
 
+:v: 2020.07- Many thanks, I got the award as "The Stars of Self-improvement of China University of Geosciences (Wuhan) in 2019".  
+**非常感谢，我很荣幸被评为“2019年度中国地质大学（武汉）校级大学生自强之星”！**
+
 :v: 2020.07- Thanks to all my friends, I got the award as "The Excellent Party Members of China University of Geosciences (Wuhan) in 2019-2020".  
 **谢谢大家，我很荣幸被评为“2019-2020学年中国地质大学（武汉）校级优秀共产党员”！**
 
@@ -48,6 +51,8 @@ Publication: Information Sciences, Vol 508, January 2020, Pages 260-274. (SCI, J
 中国地质大学（武汉）教学实验室开放基金项目，SKJ2018226，基于深度学习的短文本情感分析研究，2018/12-2019/12，已结题，主持
 
 ### Honors 获奖情况
+
+2019年度中国地质大学（武汉）校级大学生自强之星
 
 2019-2020学年中国地质大学（武汉）校级优秀共产党员
 
