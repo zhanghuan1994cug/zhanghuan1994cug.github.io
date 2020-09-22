@@ -7,6 +7,9 @@ I am Huan Zhang, born in April 1994, currently a first-year Ph.D. student at Chi
 
 ### News 最新动态
 
+:v: 2020.09- Our paper ''Attribute and Instance Weighted Naive Bayes'' is accepted in Pattern Recognition (CCF-B, IF:7.196)! Congratulations!  
+**我们的工作“Attribute and Instance Weighted Naive Bayes” 被录取到了 Pattern Recognition (CCF-B, IF:7.196)！恭喜！**
+
 :v: 2020.07- Many thanks, I got the award as "The Stars of Self-improvement of China University of Geosciences (Wuhan) in 2019".  
 **非常感谢，我很荣幸被评为“2019年度中国地质大学（武汉）校级大学生自强之星”！**
 
