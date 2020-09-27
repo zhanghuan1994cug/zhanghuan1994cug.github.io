@@ -45,6 +45,10 @@ I am Huan Zhang, born in April 1994, currently a first-year Ph.D. student at Chi
 
 ### Publications 科研论文
 
+**[Attribute and Instance Weighted Naive Bayes](https://authors.elsevier.com/c/1bonI77nKaEQ7)**  
+Authors: **Huan Zhang**, Liangxiao Jiang*, Liangjun Yu  
+Publication: Pattern Recognition, Vol 111, March 2021, 107674. (SCI, JCR-2, CCF-B, IF=7.196)
+
 **[Class-specific Attribute Value Weighting for Naive Bayes](https://www.sciencedirect.com/science/article/pii/S0020025519308217?via%3Dihub)**  
 Authors: **Huan Zhang**, Liangxiao Jiang*, Liangjun Yu  
 Publication: Information Sciences, Vol 508, January 2020, Pages 260-274. (SCI, JCR-1, CCF-B, IF=5.542)
