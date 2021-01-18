@@ -7,6 +7,18 @@ I am Huan Zhang, born in April 1994, currently a first-year Ph.D. student at Chi
 
 ### News 最新动态
 
+:v: 2020.12- Congratulations! I got the second prize in "The 15th Central China Post-graduate Programming Contest in Wuhan University"! A great improvement than last year!   
+**祝贺！我很荣幸获得了“武汉大学第十五届学术科技节之锐捷网络杯华中区高校研究生程序设计大赛二等奖” ！与去年相比，成绩有了不小的进步！**
+
+:v: 2020.11- Many thanks to all, I got "the Rui-Ming Alumni Scholarship in CUG in 2020"! Only five students win the honor!  
+**非常感谢大家，我很荣幸获得“2020年锐鸣校友奖学金”！全校仅有5个名额！**
+
+:v: 2020.11- Our works "Data-driven optimization model of gasoline octane loss" is awarded with "The Second Prize of the 17th China Post-graduate Mathematical Contest in Modeling". Congratulations!
+**我们的工作“数据驱动的汽油辛烷值损失优化模型”获得了“华为杯”第十七届中国研究生数学建模竞赛二等奖！恭喜！**
+
+:v: 2020.09- Our paper ''Attribute and Instance Weighted Naive Bayes'' is accepted in Pattern Recognition (CCF-B, IF:7.196)! Congratulations!  
+**我们的工作“Attribute and Instance Weighted Naive Bayes” 被录取到了 Pattern Recognition (CCF-B, IF:7.196)！恭喜！**
+
 :v: 2020.07- Many thanks, I got the award as "The Stars of Self-improvement of China University of Geosciences (Wuhan) in 2019".  
 **非常感谢，我很荣幸被评为“2019年度中国地质大学（武汉）校级大学生自强之星”！**
 
